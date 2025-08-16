@@ -2,8 +2,10 @@
 
 This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action.
 
-![Docker + cAdvisor Stack](assets/docker.png)
-![NodeExporter Stack](assets/nodeexporter.png)
+<img width="1914" height="952" alt="Screenshot 2025-08-16 125902" src="https://github.com/user-attachments/assets/170625ad-9b20-44c5-9d4e-049d30ad84db" />
+
+<img width="1919" height="924" alt="Screenshot 2025-08-16 130444" src="https://github.com/user-attachments/assets/a4e6eb66-04c3-4c19-899f-b18bde6e136c" />
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -89,10 +91,19 @@ In modern DevOps, observability is key to ensuring the health and performance of
 - **Grafana Dashboards**: Pre-configured to visualize data from Prometheus.
 - **Prometheus Configuration**: Configured to scrape metrics from Node Exporter, cAdvisor, and Notes App.
 
+## some sample shots
+<img width="1919" height="968" alt="Screenshot 2025-08-16 132521" src="https://github.com/user-attachments/assets/9a2f575b-4000-4a6c-a858-7b0d12340df3" />
+
+<img width="1919" height="950" alt="Screenshot 2025-08-16 130433" src="https://github.com/user-attachments/assets/40aa3dfc-748d-450b-9b44-4f96e99dbba3" />
+
+<img width="1540" height="528" alt="Screenshot 2025-08-16 132501" src="https://github.com/user-attachments/assets/0defcff3-a756-40cf-976e-475ab867d5be" />
+
+<img width="1913" height="959" alt="Screenshot 2025-08-16 132545" src="https://github.com/user-attachments/assets/a6570224-7619-497d-93e5-b9a29626349f" />
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any changes or improvements.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Author: Suyash Dahitule
