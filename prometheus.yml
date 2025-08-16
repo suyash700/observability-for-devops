@@ -1,0 +1,11 @@
+scrape_configs:
+  - job_name: "cAdvisor-docker"
+    static_configs:
+      - targets: ["cadvisor:8080"]
+        labels:
+          app: "docker"
+  - job_name: "Nodeexporter"
+    static_configs:
+      - targets: ["node_exporter:9100"]
+        labels:
+          app: "node"
